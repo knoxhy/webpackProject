@@ -9,7 +9,7 @@ module.exports = function() {
 import React, {Component} from 'react'
 import config from './config.json';
 
-export default class Greeter extends Component{
+export default class Type extends Component{
   render() {
     return (
       <div>
